@@ -7,6 +7,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.common-bg{
+    background-color: #F1F1F3;
+}
 .navbar{
     max-width: 85%;
     margin: 0 auto;
