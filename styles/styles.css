@@ -163,3 +163,27 @@
     border-radius: 16px;
     padding: 32px;
 }
+.qutation-section{
+    background-image: url(../images/quote-bg.png);
+    background-repeat: no-repeat;
+    padding: 48px 24px;
+    background-color: white;
+    border-radius: 16px;
+    margin-top: 32px;
+    background-position-y: 10%;
+    background-position-x: 2%;
+}
+.qutation-description-1{
+    font-size: 16px;
+    color: #0E0E0EB3;
+    margin-bottom: 12px;
+}
+.qutation-heading{
+    font-size: 20px;
+    color: #0E0E0ECC;
+}
+.qutation-description-2{
+    font-size: 16px;
+    color: #0E0E0E99;
+    margin-bottom: 4px;
+}
