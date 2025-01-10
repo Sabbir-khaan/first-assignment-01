@@ -10,9 +10,11 @@
 .common-bg{
     background-color: #F1F1F3;
 }
-.navbar{
-    max-width: 85%;
+.common-bg-style{
+    max-width: 70%;
     margin: 0 auto;
+}
+.navbar{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -27,8 +29,6 @@
     font-weight: 600;
 }
 .banner{
-    max-width: 85%;
-    margin: 0 auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -36,7 +36,6 @@
     border-radius: 24px;
     padding: 80px 100px;
     margin-top: 45px;
-
 }
 .banner-heading{
     font-size: 24px;
@@ -55,10 +54,6 @@
     background-color: #006A50;
     border-radius: 8px;
     border: none;
-}
-.pillars-of-bd{
-    max-width: 85%;
-    margin: 0 auto;
 }
 .pillars-card{
     display: flex;
@@ -101,4 +96,70 @@
     background-color: white;
     border-radius: 16px;
     padding: 24px;
+}
+.vision-of-future{
+    margin-top: 80px;
+}
+.vision-of-heading{
+    font-size: 40px;
+    margin-bottom: 24px;
+}
+.vision-of-description{
+    font-size: 16px;
+    color: #0E0E0EB3;
+    margin-bottom: 32px;
+    line-height: 24px;
+}
+.vision-of-future-card{
+    display: flex;
+    justify-content: space-between;
+}
+.vof-card-heading{
+    font-size: 20px;
+    margin-bottom: 12px;
+    margin-top: 24px;
+}
+.vof-card-description{
+    font-size: 16px;
+    color: #0E0E0EB3;
+    margin-bottom: 24px;
+}
+.vof-card-btn-1{
+    font-size: 16px;
+    color: white;
+    padding: 11px 20px;
+    background-color: #5490F5;
+    border-radius: 8px;
+    border: none;
+}
+.vof-card-btn-2{
+    font-size: 16px;
+    color: white;
+    padding: 11px 20px;
+    background-color: #09A15C;
+    border-radius: 8px;
+    border: none;
+}
+.vof-card-btn-3{
+    font-size: 16px;
+    color: white;
+    padding: 11px 20px;
+    background-color: #FFC239;
+    border-radius: 8px;
+    border: none;
+}
+.vof-card-1{
+    background-color: #5490F533;
+    border-radius: 16px;
+    padding: 32px;
+}
+.vof-card-2{
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    padding: 32px;
+}
+.vof-card-3{
+    background-color: #F7EBCF;
+    border-radius: 16px;
+    padding: 32px;
 }
