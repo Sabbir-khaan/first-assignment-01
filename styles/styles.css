@@ -27,8 +27,7 @@
     font-weight: 600;
 }
 .banner{
-    width: 85%;
-    
+    max-width: 85%;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -56,4 +55,50 @@
     background-color: #006A50;
     border-radius: 8px;
     border: none;
+}
+.pillars-of-bd{
+    max-width: 85%;
+    margin: 0 auto;
+}
+.pillars-card{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+}
+.pillars-card-heading{
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 80px;
+}
+.pillars-heading{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 24px;
+    font-weight: 600;
+}
+.pillars-description{
+    font-size: 16px;
+    color: #0E0E0EB3;
+    line-height: 24px;
+    margin-top: 12px;
+}
+.pillars-card-1{
+    background-color: white;
+    border-radius: 16px;
+    padding: 24px;
+}
+.pillars-card-2{
+    background-color: white;
+    border-radius: 16px;
+    padding: 24px;
+}
+.pillars-card-3{
+    background-color: white;
+    border-radius: 16px;
+    padding: 24px;
+}
+.pillars-card-4{
+    background-color: white;
+    border-radius: 16px;
+    padding: 24px;
 }
