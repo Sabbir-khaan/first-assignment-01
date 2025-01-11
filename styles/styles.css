@@ -191,6 +191,7 @@
     background-color: white;
     padding: 32px;
     border-radius: 16px;
+    margin-bottom: 80px;
     
 }
 .opinion-heading{
@@ -230,3 +231,62 @@
     font-size: 16px;
     border: 1px solid black;
 }
+.recent-title{
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 24px;
+}
+.recent-description{
+    font-size: 16px;
+    color:#0E0E0E99;
+    line-height: 24px;
+    margin-bottom: 32px;
+}
+.satelite{
+    border-radius: 24px;
+}
+.recent-card{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 48px;
+    border-radius: 24px;
+    margin-bottom: 24px;
+}
+.news-title{
+    font-size: 32px;
+    margin-bottom: 12px;
+}
+.news-time-date{
+    display: flex;
+    gap: 12px;
+    font-size: 16px;
+    color:#0E0E0E99;
+    margin: 12px 0;
+}
+.news-description{
+    font-size: 16px;
+    color:#0E0E0E99;
+}
+.news-btn{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    background-color: #006A50;
+    padding: 13px 26px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 32px;
+}
+.recent-card-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+    background-color: white;
+    padding: 48px;
+    border-radius: 24px;
+    margin-bottom: 24px;
+}
+    
