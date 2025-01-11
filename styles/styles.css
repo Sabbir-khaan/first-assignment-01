@@ -339,7 +339,7 @@
     border-bottom: 1px solid
     #0E0E0E26;
 }
-form input[type="text"]{
+input[type="text"]{
     width: 100%;
     text-align: center;
     font-size: 20px;
@@ -361,4 +361,54 @@ form input[type="text"]{
     border: none;
     border-radius: 8px;
 }
+.newsletter-section{
+    background-color: #C6E4D6;
+    padding: 80px 100px;
+    border-radius: 24px;
+}
+.newsletter{
+    text-align: center;
+}
+.newsletter-title{
+    font-size: 40px;
+    margin-bottom: 16px;
+}
+.newsletter-description{
+    font-size: 16px;
+    color: #0E0E0E99;
+    line-height: 24px;
+    margin-bottom: 24px;
+} 
+.input-email{
+    max-width: 70%;
+    margin: 0 auto;
+}
+input[type="email"]{
+    width: 600px;
+    border: none;
+    font-family: "Fira Sans", serif;
+    font-size: 16px;
+    color: #0E0E0E4D;
+    padding: 18px 40px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+.btn{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    background-color: #006A50;
+    padding: 17px 34px;
+    border: none;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+.delete{
+    font-size: 16px;
+    color:#0E0E0E99;
+    text-align: center;
+    margin-top: 24px;
+}
+
+
 
